@@ -1,5 +1,5 @@
 
-# NOTICE: `browser-fs` ORG DEPRECATION AND FORKING
+# ORGANIZATION DEPRECATION AND FORK NOTICE
 
 Hey there, this is the current maintainer of BrowserFS.
 
