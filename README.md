@@ -5,11 +5,7 @@ Hey there, this is the current maintainer of BrowserFS.
 
 I've been working on BrowserFS for over a year now, and have made some big improvements.
 
-A few months ago, I began seperating some backends from BrowserFS to be placed into different packages.
-
-Along with this, I created the browser-fs organization on Github and the browserfs organization on NPM. I made new organization to keep the repositories and packages organized.
-
-Another reason I did so was because John Vilk, the original author of the project, no longer had the time to administer the project. This means at the time of writing this, I still do not have access to the NPM package.
+A few months ago, I began seperating some backends from BrowserFS to be placed into different packages. Along with this, I created the browser-fs organization on Github and the browserfs organization on NPM. I made new organizations to keep the repositories and packages organized. Another reason I did so was because John Vilk, the original author of the project, no longer had the time to administer the project. This means at the time of writing this, I still do not have access to the NPM package.
 
 I feel that now, the project has changed so significantly it is no longer the same BrowserFS. Even the name, *Browser*FS, implies it is meant for browsers, which it has outgrown.
 
