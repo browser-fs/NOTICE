@@ -9,7 +9,7 @@ A few months ago, I began seperating some backends from BrowserFS to be placed i
 
 Along with this, I created the browser-fs organization on Github and the browserfs organization on NPM. I made new organization to keep the repositories and packages organized.
 
-Another reason I did so was because John Vilk, the original author of the project, no longer had the time to administer the project. This meant I still do not have access to the NPM package.
+Another reason I did so was because John Vilk, the original author of the project, no longer had the time to administer the project. This means at the time of writing this, I still do not have access to the NPM package.
 
 I feel that now, the project has changed so significantly it is no longer the same BrowserFS. Even the name, *Browser*FS, implies it is meant for browsers, which it has outgrown.
 
@@ -23,9 +23,9 @@ I would like to extend my deepest thanks to Dr. Emery Berger. Shortly after subm
 
 Thank you very much to the community for helping me with this project by submitting issues and pull requests.
 
-The Github organization `browser-fs` will remain, with this notice posted, so Github links will continue to function. The repositories of `browser-fs` have been transferred to and will redirect to `zen-fs`.
+The Github organization `browser-fs` remains, with this notice posted, so Github links continue to function. The repositories of `browser-fs` have been transferred to and redirect to `zen-fs`.
 
-The NPM organization `browserfs` will have all of its packages deprecated, with a message pointing to the new package as well as this notice. All of the versions published under `@browserfs` have also been published under `@zenfs`.
+The NPM organization `browserfs` has had all of its packages deprecated, with a message pointing to the new package as well as this notice. All of the versions published under `@browserfs` have also been published under `@zenfs`.
 
 I hope that ZenFS can continue the legacy of BrowserFS, and can reach the same popularity and reliability.
 
