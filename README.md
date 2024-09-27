@@ -25,4 +25,4 @@ Until next time,
 **James P.**   
 a.k.a. Dr. Vortex  
 BrowserFS maintainer  
-ZenFS creator  
+[ZenFS](https://github.com/zen-fs/core) creator  
